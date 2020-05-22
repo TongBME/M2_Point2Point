@@ -1,5 +1,5 @@
 # Setup
-Device: M2 upper limb rehabilitation robot
+Device: M2 upper limb rehabilitation robot.
 Software: Unity 3D 2018.x
 
 # Experiment
