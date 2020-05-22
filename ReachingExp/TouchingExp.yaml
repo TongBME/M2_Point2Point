@@ -1,0 +1,21 @@
+experimentName: shoulder touching test
+dateTime: 2020-05-18
+subject: test1
+taskName:
+- Abduction
+- Aduction
+- Reach
+- ReachAduc
+trialNumbers: 1
+touchTime: 3
+breakTime: 3
+startPoint:
+- 0,0.025
+- 0.209,0.357
+- 0.371,0.036
+- 0.504,0.4
+endPoint:
+- 0,0.357
+- 0.209,0.036
+- 0.371,0.4
+- 0.504,0.074
